@@ -1,2 +1,0 @@
-# myportofolio
-myportofolio private
